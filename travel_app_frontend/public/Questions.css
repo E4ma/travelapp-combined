@@ -1,0 +1,19 @@
+.personality-area {
+    border: 2px solid black;
+    height: 60vh;
+}
+
+.personality-heading {
+    text-align: center;
+    font-size: 3rem;
+    padding: 5% 0;
+}
+
+.personality-selectors {
+    font-size: 1.3rem;
+}
+
+.result-area {
+    border: 2px solid black;
+    font-size: 1.3rem;
+}

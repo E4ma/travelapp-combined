@@ -1,0 +1,15 @@
+.body {
+  position: relative;
+}
+
+.wrap {
+  position: relative;
+  top: 3vh;
+  z-index: 1;
+  font-weight: 800;
+  font-size: 5rem;
+}
+
+.bodyImage{
+  background-image: url('travel.jpg');
+}

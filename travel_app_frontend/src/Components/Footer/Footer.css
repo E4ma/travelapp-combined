@@ -1,0 +1,29 @@
+.footer-container {
+    height: 60px;
+    background-color: #f3c57c;
+    color: #357e85;
+   
+
+}
+.social-container {
+    display: flex;
+    justify-content: center;
+   padding: 1rem;
+   
+ 
+    text-align: center;
+   
+    font-size: 2rem;
+    letter-spacing: 50px;
+      
+}
+.office-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.icon {
+    padding: 3px;
+}

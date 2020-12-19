@@ -1,0 +1,11 @@
+.city-background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cityForm{
+  display: flex;
+  align-items: stretch;
+  margin: 24px;
+  padding-top: 12px;
+}
